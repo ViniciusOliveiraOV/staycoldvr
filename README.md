@@ -1,5 +1,5 @@
-👋 Olá! Bem-vindo ao meu GitHub
-Meu nome é Vinícius e meu nickname é ViniciusOliveiraOV
+## 👋 Olá! Bem-vindo ao meu GitHub
+### Meu nome é Vinícius e meu nickname é ViniciusOliveiraOV
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vinicius-R-PeoplePy&color=blue" alt="Profile Views"/> </p>
 
 💻 Atualmente estudando:
