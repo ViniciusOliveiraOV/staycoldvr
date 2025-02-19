@@ -6,6 +6,7 @@ Meu nome é Vinícius e meu nickname é ViniciusOliveiraOV
 
     Linux & customização de sistemas
     Desenvolvimento de software e automação
+    Banco de dados
 
 🚀 Habilidades e Tecnologias:
 
@@ -19,6 +20,7 @@ Meu nome é Vinícius e meu nickname é ViniciusOliveiraOV
     Criando jogos 2D com Godot Engine
     Desenvolvimento de automações para processos manuais
     Explorando conceitos de Cloud Computing
+    Desenvolvendo websites funcionais
 
 🌎 Onde me encontrar:
 <p align="left"> <a href="https://www.linkedin.com/in/viniciusoliveiraov/" target="_blank"> <img src="https://img.shields.io/badge/-ViniciusOliveiraOV-05122A?style=flat&logo=linkedin" alt="LinkedIn"> </a> <a href="https://github.com/ViniciusOliveiraOV/" target="_blank"> <img src="https://img.shields.io/badge/-ViniciusOliveiraOV-05122A?style=flat&logo=github" alt="GitHub"> </a> </p>
