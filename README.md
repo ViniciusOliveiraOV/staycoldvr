@@ -27,7 +27,7 @@ Desenvolvedor fullstack com atuação em Python e JavaScript, entregando soluç�
 
 🌐 Onde me encontrar    
 
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ViniciusOliveiraOV)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ViniciusOliveiraOV)
 
 📬 Contato e Colaboração
 
