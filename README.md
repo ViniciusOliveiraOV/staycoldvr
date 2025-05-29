@@ -1,4 +1,5 @@
 👋 Olá, eu sou o Vinícius (ViniciusOliveiraOV)
+
 Sobre mim
 
 Desenvolvedor fullstack com atuação em Python e JavaScript, entregando soluções completas com foco em qualidade, segurança e performance. Trabalho como freelancer, lidando com APIs robustas, interfaces modernas e automação de processos.
